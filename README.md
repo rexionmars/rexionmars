@@ -1,7 +1,7 @@
-## Hi there 👋
 
 <!--
 **rexionmars/rexionmars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![wallhaven-pkd91m](https://github.com/user-attachments/assets/ea561206-6509-496d-be78-ebdf9b8ec5a9)
