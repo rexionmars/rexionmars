@@ -2,4 +2,5 @@
 💫 Software Engineer focus on AI <br>
 📚 Artificial Intelligence Researcher <br>
 🤖 Computer Vision <br>
-🧬 Bio Inspired Artificial Intelligence and Computational neuroscience
+🧬 Bio Inspired Artificial Intelligence and Computational neuroscience <br>
+@google-deepmind dolphingemma
