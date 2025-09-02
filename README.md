@@ -1,6 +1,4 @@
 
-💫 Software Engineer focus on AI <br>
-📚 Artificial Intelligence Researcher <br>
-🤖 Computer Vision <br>
-🧬 Bio Inspired Artificial Intelligence and Computational neuroscience <br>
-@google-deepmind dolphingemma
+<img src="https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif" alt="Descrição da imagem">
+
+<img src="https://www.google.com/logos/fnbx/ingenuity/fg.png">
