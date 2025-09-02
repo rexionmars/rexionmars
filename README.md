@@ -1,4 +1,4 @@
-🔏 ATI - Maranhão <br>
+
 💫 Software Engineer focus on AI <br>
 📚 Artificial Intelligence Researcher <br>
 🤖 Computer Vision <br>
