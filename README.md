@@ -1,3 +1,4 @@
-Recently, my computer suffered a malfunction that significantly affected its operation. 
-<br>
-Recentemente, meu computador apresentou um problema que comprometeu seu funcionamento.
+
+<img src="https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif" alt="Descrição da imagem">
+
+<img src="https://www.google.com/logos/fnbx/ingenuity/fg.png">
