@@ -1,5 +1,5 @@
 
-<img src="https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif" alt="Descrição da imagem">
+<img src="https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif" alt="Descrição da imagem" align="center">
 
 <!-- <p align="center">
   <img src="https://raw.githubusercontent.com/rexionmars/Solara/refs/heads/master/docs/img/solara-logo-on-dark.png" width="640" alt="Modelo 3D do rover Perseverance girando, com o mastro olhando de um lado para o outro">
